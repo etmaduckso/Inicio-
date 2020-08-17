@@ -1,0 +1,13 @@
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\bin\Debug\netcoreapp3.1\NET.exe
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\bin\Debug\netcoreapp3.1\NET.deps.json
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\bin\Debug\netcoreapp3.1\NET.runtimeconfig.json
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\bin\Debug\netcoreapp3.1\NET.runtimeconfig.dev.json
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\bin\Debug\netcoreapp3.1\NET.dll
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\bin\Debug\netcoreapp3.1\NET.pdb
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\obj\Debug\netcoreapp3.1\NET.csprojAssemblyReference.cache
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\obj\Debug\netcoreapp3.1\NET.AssemblyInfoInputs.cache
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\obj\Debug\netcoreapp3.1\NET.AssemblyInfo.cs
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\obj\Debug\netcoreapp3.1\NET.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\obj\Debug\netcoreapp3.1\NET.dll
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\obj\Debug\netcoreapp3.1\NET.pdb
+C:\Users\olive\Documents\GitHub\ARLUZ\LAKE\NET\obj\Debug\netcoreapp3.1\NET.genruntimeconfig.cache
