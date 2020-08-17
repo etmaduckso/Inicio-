@@ -1,0 +1,29 @@
+
+
+
+/* - PROGRAMAM DESENVOLVIDO PARA CALCULAR TABUADA - 
+nESSE CODIGO O USUARIO É INSENTIVADO A INSERIR QUAL A TABUADA ELE DESEJA RESOLVER.
+COMANDOS CHAVE: funcao, faca, enquanto. 
+A VARAIVEL limite DETERMINA A QUANTIDADE DE REPETIÇÃO A TABUADA IRA REALIZAR*/    
+ 
+programa 
+{ 
+	funcao inicio () 
+	{ 
+		inteiro contador,limite,resultado,tab
+
+		contador = 0
+		limite = 10
+     	escreva("Digite o numero da tabuada: ")
+		leia(tab)
+	faca{
+
+		resultado = tab * contador 
+		escreva(tab + "X" + contador + "=" + resultado +"\n")
+		contador ++
+         }
+     enquanto (contador<=limite)
+	}	
+
+
+}
