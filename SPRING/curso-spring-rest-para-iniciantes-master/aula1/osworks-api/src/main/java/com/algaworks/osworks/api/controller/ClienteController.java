@@ -26,6 +26,7 @@ public class ClienteController {
 		cliente2.setEmail("mariadasilva@algaworks.com");
 		
 		return Arrays.asList(cliente1, cliente2);
+		
 	}
 	
 }
